@@ -3,7 +3,7 @@
 Implementación de un config server con spring cloud que contiene la configuración del microservicio
 implementado en:
 
-http://github.com/jmachicado/mic-course-management.git
+[mic-course-management](https://github.com/jaimemachicado/mic-course-management)
 
 # Ejecución
 
@@ -15,5 +15,5 @@ http://github.com/jmachicado/mic-course-management.git
 >**Nota:**
 > 
 > El microservicio mic-course-management hace uso también de:
-> http://github.com/jmachicado/mic-student-management.git
+> [mic-student-management](https://github.com/jaimemachicado/mic-student-management)
  
